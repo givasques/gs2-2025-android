@@ -1,5 +1,5 @@
 # Projeto IMC – Jetpack Compose
-- Github de publicacao:
+- Github de publicacao do projeto: givasques/gs2-2025-android
 
 Projeto da GS2 - 2025 - 3SIR que envolve utilização do Jetpack Compose para construir uma aplicação simples com validação de login, menu de navegação, cálculo de IMC e identificação da equipe.
 
@@ -17,9 +17,9 @@ A tela de login contém dois campos:
 
 A validação é feita com:
 
-Usuário: admin
+- Usuário: admin
 
-Senha: 123456
+- Senha: 123456
 
 ### 2. Tela de Menu
 
@@ -55,25 +55,34 @@ Exibição:
 
 A tela da equipe contém:
 
-Nome dos integrantes da dupla
+- Nome dos integrantes da dupla
 
-Botão para retornar ao menu
+- Botão para retornar ao menu
 
 ## Telas do Projeto
 ### Tela de Login
 - Comportamento ao informar dados incorretos
+
 ![login1](images-readme/login1.png)
-- Comportamento ao preencher com dados corretos
+
+- Comportamento ao preencher com dados corretos (direcionamento para a tela Menu)
+
 ![login2](images-readme/login2.png)
-- Direcionamento para a tela de menu
+
 ### Tela de Menu
+
 ![menu1](images-readme/menu1.png)
+
 - Ao clicar nos botões - direcionamento para as telas de IMC, Equipe e Login
 ### Tela de cálculo do IMC
+
 ![imc1](images-readme/imc1.png)
+
 - Preenchendo com valores acima, na média e abaixo do peso
+
 ![imc2](images-readme/imc2.png)
 ![imc3](images-readme/imc3.png)
 ![imc4](images-readme/imc4.png)
+
 ### Tela da Equipe
 ![equipe](images-readme/equipe.png)
